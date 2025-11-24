@@ -1,6 +1,6 @@
 Boot.Dev
 Build Asteroids using Python and Pygame (source code for all chapters)
-Game Feature Enhancements
+Game Feature Enhancements (haven't yet implemented)
 
     Add a scoring system.
 
