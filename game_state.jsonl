@@ -1,0 +1,16 @@
+{"timestamp": "08:50:36.201", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 395.6], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "08:50:37.169", "elapsed_s": 2, "frame": 120, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 486.2], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "08:50:38.143", "elapsed_s": 3, "frame": 180, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 307.6], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "08:50:39.114", "elapsed_s": 4, "frame": 240, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 420.8], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "08:50:40.085", "elapsed_s": 5, "frame": 300, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 476.2], "vel": [0.0, 0.0], "rad": 20, "rot": 58.5}}
+{"timestamp": "08:50:41.057", "elapsed_s": 6, "frame": 360, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [679.74, 526.88], "vel": [0.0, 0.0], "rad": 20, "rot": 141.9}}
+{"timestamp": "08:50:42.029", "elapsed_s": 7, "frame": 420, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [565.71, 381.45], "vel": [0.0, 0.0], "rad": 20, "rot": 141.9}}
+{"timestamp": "08:50:42.994", "elapsed_s": 8, "frame": 480, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [512.04, 354.22], "vel": [0.0, 0.0], "rad": 20, "rot": 238.5}}
+{"timestamp": "08:50:43.967", "elapsed_s": 9, "frame": 540, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [443.15, 396.44], "vel": [0.0, 0.0], "rad": 20, "rot": 238.5}}
+{"timestamp": "08:50:44.941", "elapsed_s": 10, "frame": 600, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [429.95, 313.08], "vel": [0.0, 0.0], "rad": 20, "rot": 171.0}}
+{"timestamp": "08:50:45.908", "elapsed_s": 10, "frame": 660, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [414.71, 345.03], "vel": [0.0, 0.0], "rad": 20, "rot": 205.5}}
+{"timestamp": "08:50:46.879", "elapsed_s": 11, "frame": 720, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [370.1, 438.54], "vel": [0.0, 0.0], "rad": 20, "rot": 205.5}}
+{"timestamp": "08:50:47.850", "elapsed_s": 12, "frame": 780, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [434.25, 304.05], "vel": [0.0, 0.0], "rad": 20, "rot": 205.5}}
+{"timestamp": "08:50:48.822", "elapsed_s": 13, "frame": 840, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [460.63, 137.61], "vel": [0.0, 0.0], "rad": 20, "rot": 98.4}}
+{"timestamp": "08:50:49.791", "elapsed_s": 14, "frame": 900, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [491.09, 168.6], "vel": [0.0, 0.0], "rad": 20, "rot": -192.3}}
+{"timestamp": "08:50:50.768", "elapsed_s": 15, "frame": 960, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [424.28, 127.59], "vel": [0.0, 0.0], "rad": 20, "rot": 27.9}}
